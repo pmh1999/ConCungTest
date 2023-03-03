@@ -1,16 +1,26 @@
-# concung
+## Previews ⛶
 
-A new Flutter project.
+<img src="demo/demo1.PNG" alt="screenshots"> 
 
-## Getting Started
+<img src="demo/demo2.PNG" alt="screenshots"> 
 
-This project is a starting point for a Flutter application.
+<img src="demo/demo3.PNG" alt="screenshots"> 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="demo/demo4.PNG" alt="screenshots"> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Feature roadmap ⌲
+* [x] UI
+* [x] Accessibility
+* [x] GetX
+* [x] SQL
+* [x] Share Preference
+* [x] API
+
+apk: /demo/app-release.apk 
+
+install: 
+fvm use stable
+fvm flutter pub get
+fvm flutter run
